@@ -90,6 +90,11 @@ php artisan task list
 - **База данных**: MySQL
 - **CLI**: Laravel Artisan Commands
 
+## 🛠 Идеа
+```bash
+https://roadmap.sh/projects/task-tracker
+```
+
 ## 👤 Контакты
 Разработчик: **Muhammad Zikirzoda**  
 GitHub: [iammaga](https://github.com/iammaga/)
